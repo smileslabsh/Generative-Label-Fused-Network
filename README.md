@@ -1,2 +1,2 @@
-# Generative-label-fused-network-for-image-text-matching
-Generative label fused network for image–text matching
+# Generative-Label-Fused-Network
+Generative Label Fused Network For Image–Text Matching
